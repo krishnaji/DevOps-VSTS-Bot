@@ -243,4 +243,7 @@
   <data name="Subscriptions" xml:space="preserve">
     <value>Subscriptions</value>
   </data>
+  <data name="Export" xml:space="preserve">
+    <value>Export</value>
+  </data>
 </root>
